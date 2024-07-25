@@ -26,7 +26,7 @@ FIXTURE_DATASET_SLUGS = [
     "logements-sociaux-et-bailleurs-par-region",
     "base-adresse-locale-de-la-commune-de-garein",
     "cuisses-de-grenouille-et-escargots-frogs-legs-and-snails",
-    "marche-public-de-la-metropole-de-lyon",
+    "marches-publics-de-la-metropole-de-lyon",
     "defibrillateurs-presents-sur-la-commune-de-sixt-sur-aff-en-2018",
     "dpe-logements-avant-juillet-2021",
     "mairie-de-montluel-borne-de-recharge-pour-vehicules-electriques",
