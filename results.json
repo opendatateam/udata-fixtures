@@ -16798,7 +16798,7 @@
       "acronym": null,
       "badges": [
         {
-          "kind": "Local authority"
+          "kind": "local-authority"
         },
         {
           "kind": "public-service"
@@ -17061,7 +17061,7 @@
       "acronym": "SSA",
       "badges": [
         {
-          "kind": "Local authority"
+          "kind": "local-authority"
         },
         {
           "kind": "public-service"
@@ -19981,7 +19981,7 @@
       "acronym": null,
       "badges": [
         {
-          "kind": "Local authority"
+          "kind": "local-authority"
         },
         {
           "kind": "public-service"
@@ -20275,7 +20275,7 @@
       "acronym": null,
       "badges": [
         {
-          "kind": "Local authority"
+          "kind": "local-authority"
         },
         {
           "kind": "public-service"
@@ -24327,7 +24327,7 @@
       "acronym": "DLVA",
       "badges": [
         {
-          "kind": "Local authority"
+          "kind": "local-authority"
         },
         {
           "kind": "certified"
