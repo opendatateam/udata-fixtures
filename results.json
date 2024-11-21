@@ -16801,9 +16801,6 @@
           "kind": "local-authority"
         },
         {
-          "kind": "public-service"
-        },
-        {
           "kind": "certified"
         }
       ],
@@ -17062,9 +17059,6 @@
       "badges": [
         {
           "kind": "local-authority"
-        },
-        {
-          "kind": "public-service"
         },
         {
           "kind": "certified"
@@ -19982,9 +19976,6 @@
       "badges": [
         {
           "kind": "local-authority"
-        },
-        {
-          "kind": "public-service"
         }
       ],
       "business_number_id": "21010262000106",
@@ -20276,9 +20267,6 @@
       "badges": [
         {
           "kind": "local-authority"
-        },
-        {
-          "kind": "public-service"
         }
       ],
       "business_number_id": "20005376700014",
@@ -24331,9 +24319,6 @@
         },
         {
           "kind": "certified"
-        },
-        {
-          "kind": "public-service"
         }
       ],
       "business_number_id": "20003470000019",
