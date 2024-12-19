@@ -34,6 +34,7 @@ FIXTURE_DATASET_SLUGS = [
     "base-adresse-nationale",
     "reseau-de-transport-en-commun-transagglo-de-dlva",
     "nombre-de-personnes-rickrollees-sur-data-gouv-fr",
+    "rpg",
 ]
 ```
 
