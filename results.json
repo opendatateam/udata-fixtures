@@ -4928,6 +4928,7 @@
     "dataservices": [
       {
         "acronym": null,
+        "access_type": "open_with_account",
         "archived_at": null,
         "authorization_request_url": null,
         "availability": 99.5,
@@ -4945,7 +4946,7 @@
         "created_at": "2024-06-06T16:38:39.597000+00:00",
         "deleted_at": null,
         "description": "L'API Sirene permet d'interroger le r\u00e9pertoire Sirene des entreprises et des \u00e9tablissements, g\u00e9r\u00e9 par l'Insee, et principalement, d'obtenir :\n- des informations sur une entreprise ou un \u00e9tablissement du r\u00e9pertoire\n- des informations sur plusieurs entreprises ou \u00e9tablissements s\u00e9lectionn\u00e9es selon un ou plusieurs crit\u00e8res (activit\u00e9, g\u00e9ographie ..)\n- des informations sur les mises \u00e0 jour quotidiennes du r\u00e9pertoire",
-        "endpoint_description_url": "https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=Sirene&version=V3.11&provider=insee",
+        "technical_documentation_url": "https://api.insee.fr/catalogue/site/themes/wso2/subthemes/insee/pages/item-info.jag?name=Sirene&version=V3.11&provider=insee",
         "extras": {},
         "format": null,
         "harvest": {
@@ -4961,9 +4962,7 @@
           "source_url": null,
           "uri": null
         },
-        "has_token": true,
         "id": "6661e60fda535e9773c510ca",
-        "is_restricted": false,
         "metadata_modified_at": "2024-06-06T16:38:39.597000+00:00",
         "metrics": {},
         "organization": {
@@ -12366,6 +12365,7 @@
     "dataservices": [
       {
         "acronym": null,
+        "access_type": "open",
         "archived_at": null,
         "authorization_request_url": null,
         "availability": null,
@@ -12375,7 +12375,7 @@
         "created_at": "2024-07-12T00:01:33.780000+00:00",
         "deleted_at": null,
         "description": "",
-        "endpoint_description_url": "https://opendata.caissedesdepots.fr/api/explore/v2.1/swagger.json",
+        "machine_documentation_url": "https://opendata.caissedesdepots.fr/api/explore/v2.1/swagger.json",
         "extras": {},
         "format": null,
         "harvest": {
@@ -12391,9 +12391,7 @@
           "source_url": "https://opendata.caissedesdepots.fr/api/explore/v2.1/catalog/exports/dcat/?include_exports=json%2Ccsv%2Cshp%2Cgeojson&lang=fr",
           "uri": "https://opendata.caissedesdepots.fr/api/explore/v2.1/"
         },
-        "has_token": null,
         "id": "6690725d0fd97cb0a91ff6b5",
-        "is_restricted": null,
         "metadata_modified_at": "2024-07-30T00:04:31.672000+00:00",
         "metrics": {},
         "organization": {
@@ -18735,6 +18733,7 @@
     "dataservices": [
       {
         "acronym": null,
+        "access_type": "open",
         "archived_at": null,
         "authorization_request_url": null,
         "availability": 99.9,
@@ -18752,7 +18751,7 @@
         "created_at": "2024-06-07T09:41:00.523000+00:00",
         "deleted_at": null,
         "description": "L\u2019API adresse permet notamment d'effectuer rapidement une recherche d\u2019adresse, mais aussi de pouvoir associer des coordonn\u00e9es \u00e0 une adresse (\"g\u00e9ocoder\") selon plusieurs crit\u00e8res. On vous explique tout en d\u00e9tail ici : [Guide sur l\u2019API Adresse](https://guides.etalab.gouv.fr/apis-geo/1-api-adresse.html)",
-        "endpoint_description_url": "https://adresse.data.gouv.fr/api-doc/adresse",
+        "technical_documentation_url": "https://adresse.data.gouv.fr/api-doc/adresse",
         "extras": {},
         "format": null,
         "harvest": {
@@ -18768,9 +18767,7 @@
           "source_url": null,
           "uri": null
         },
-        "has_token": false,
         "id": "6662d5ac7769226b9d4f4fc4",
-        "is_restricted": false,
         "metadata_modified_at": "2024-06-07T09:41:00.523000+00:00",
         "metrics": {},
         "organization": {
