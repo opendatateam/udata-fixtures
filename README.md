@@ -1,5 +1,9 @@
 # udata-fixtures
 
+> [!IMPORTANT]  
+> This repository is archived.
+> Fixtures have been integrated directly in udata >= 14.11.0 (see https://github.com/opendatateam/udata/pull/3637).
+
 This project holds fixtures for a basic set of data to load locally,
 to have a few examples to work with while developping on the
 [udata](https://github.com/opendatateam/udata) project.
